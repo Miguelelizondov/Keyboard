@@ -5,5 +5,5 @@ Se realizó el funcionamiento de un teclado con puerto PS/2, después de haber h
 # Simulación
 
 Con el testbench se generó la siguiente Simulación
-![Simulación](/teclado.PNG)
+![Simulación](/Teclado.PNG)
 ![Simulación2](/teclado2.PNG)
